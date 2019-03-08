@@ -1,0 +1,36 @@
+[Files]
+Names=Product Specification,Event Diplom Source
+RepositoryTool=Boost
+
+[Product Specification]
+Category=Requirements
+Cover1=Event Diplom Source
+Cover1Position=905@855
+GraphicPosition=820@420
+Type=WordXML
+Path=Software Requirement Specification.docx
+AbsolutePath=C:\GIT\hog-hinnerup\Event-Diplom\Project\Requirement\Software Requirement Specification.docx
+AttributeOrders=Allocation,Priority
+ColumnWidths=Priority=71,Allocation=86
+SortAttributeName=Allocation
+
+[Event Diplom Source]
+GraphicPosition=990@1290
+Variable1Name=outputDir
+Variable1Value=C:\\Users\\KREJUU~1\\AppData\\Local\\Temp\\nirg5
+Variable2Name=recurseViValues
+Variable2Value=0
+Variable3Name=absoluteFiles
+Variable3Value=C:\\GIT\\hog-hinnerup\\Event-Diplom\\Source\\Event Diplom.lvproj
+Variable4Name=recurseDirValues
+Variable4Value=0
+Variable5Name=files
+Variable5Value=..\\..\\Source\\Event Diplom.lvproj
+Variable6Name=defaultDirectory
+Variable6Value=..\\..\\Source
+Variable7Name=analyzeDiagrams
+Variable7Value=true
+Type=LabVIEW
+Path=..\..\Source\Event Diplom.lvproj
+GVPosition=7880,1800,10840,3460
+

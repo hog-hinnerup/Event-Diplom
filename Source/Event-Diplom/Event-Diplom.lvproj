@@ -14,7 +14,7 @@
 		<Item Name="Event-Diplom.vi" Type="VI" URL="../Event-Diplom.vi"/>
 		<Item Name="HOG Diplom.lvlib" Type="Library" URL="../Actor/Diplom/HOG Diplom.lvlib"/>
 		<Item Name="HOG MainUI.lvlib" Type="Library" URL="../Actor/MainUI/HOG MainUI.lvlib"/>
-		<Item Name="HOG Medlem.lvlib" Type="Library" URL="../Actor/Medlem/HOG Medlem.lvlib"/>
+		<Item Name="HOG Member.lvlib" Type="Library" URL="../Actor/Member/HOG Member.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
@@ -41,6 +41,7 @@
 				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
+				<Item Name="Dictionary - CSV.lvlib" Type="Library" URL="/&lt;vilib&gt;/GPower/Dictionary - CSV/Library/Dictionary - CSV.lvlib"/>
 				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Directory of Top Level VI.vi"/>
 				<Item Name="Dynamic To Waveform Array.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Dynamic To Waveform Array.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>

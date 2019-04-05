@@ -1,0 +1,5 @@
+This license file covers the GPower Dictionary - CSV 2019 LabVIEW toolset.
+
+Copyright (c) 2019, GPower (gpower@gpower.as)
+
+All rights reserved. For internal GPower use only, do not use or distribute without prior explicit written permission.

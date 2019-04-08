@@ -244,7 +244,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{DECD07DE-ED49-49E6-AFFE-717824B730AD}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">HOG-Diplom</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.1</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.3</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">18018006</Property>
 				<Property Name="MSI_arpCompany" Type="Str">HOG Svømning</Property>

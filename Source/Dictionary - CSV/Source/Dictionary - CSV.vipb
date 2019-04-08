@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-01-01 12:00:00" Modified_Date="2019-04-05 11:33:21" Creator="SSC" Comments="" ID="3ff76e91838928cd288044abc7801282">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-01-01 12:00:00" Modified_Date="2019-04-07 09:12:22" Creator="SSC" Comments="" ID="2517eb547a9afcbb4c8f52bd61daf8f7">
   <Library_General_Settings>
     <Package_File_Name>gpower_lib_dictionary_csv</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -32,7 +32,7 @@
       <One_Line_Description_Summary>VIs to convert between CSV strings and Dictionary.</One_Line_Description_Summary>
       <Description>VIs to convert between CSV strings and Dictionary.</Description>
       <Copyright>Copyright (c) 2019, GPower</Copyright>
-      <Packager>Steen Schmidt</Packager>
+      <Packager>Kåre Juul Kirkegaard</Packager>
       <URL>www.gpower.as</URL>
       <Release_Notes>v1 4/4 2019:
 - Initial release.</Release_Notes>
@@ -213,7 +213,21 @@
         <Path>Library\CSV Dictionary\CSV To Dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2E894DE23900CBD8BADA725A19E27F7</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Dictionary To CSV.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Library\CSV Dictionary\Dictionary To CSV.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>71418ED9E8F6FD2CD27D8C29F986D410</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

@@ -66,6 +66,7 @@
 		</Item>
 		<Item Name="Diploma.ico" Type="Document" URL="../Diploma.ico"/>
 		<Item Name="HOG Main.vi" Type="VI" URL="../HOG Main.vi"/>
+		<Item Name="Printer Data.ctl" Type="VI" URL="../controls/Printer Data.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>

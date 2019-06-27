@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: nirg -->
+
+<NIRGProject label="Event Diplom" ident="C:\GIT\hog-hinnerup\Event-Diplom\Project\Requirement\Event Diplom.rqtfimage" text="">
+	<document label="" ident="Product Specification" text="">
+		<section label="Revision history" ident="1" text="">
+		</section>
+		<section label="Document references" ident="2" text="">
+		</section>
+		<section label="Definitions and abbreviations" ident="3" text="">
+		</section>
+		<section label="Purpose" ident="4" text="">
+		</section>
+		<section label="Application" ident="5" text="">
+			<requirement label="" ident="REQ_APP_0001" text="As user in shall be possible to import member data from a file.">
+			</requirement>
+			<requirement label="" ident="REQ_APP_0002" text="The application shall store information in a result database.">
+			</requirement>
+			<requirement label="" ident="REQ_APP_0003" text="From the result database it shall be possible to see historical member result.">
+			</requirement>
+		</section>
+	</document>
+</NIRGProject>
